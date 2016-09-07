@@ -9,4 +9,6 @@ public class End {
 
 	int ukf = 432;
 
+	int iks = 3;
+
 }
