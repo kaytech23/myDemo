@@ -5,4 +5,6 @@ public class End {
 	static int u = 3;
 	
 	int ak = 3;
+	
+	int bugfix = 3;
 }
